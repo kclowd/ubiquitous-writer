@@ -1,0 +1,29 @@
+{
+  "name": "ubiquitous-writer",
+  "version": "1.0.0",
+  "description": "A sample project for live coding",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kclowd/ubiquitous-writer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kclowd/ubiquitous-writer/issues"
+  },
+  "homepage": "https://github.com/kclowd/ubiquitous-writer#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.2",
+    "typescript": "^5.8.3"
+  }
+}
